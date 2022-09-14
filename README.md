@@ -1,2 +1,3 @@
 # GatlingProject
-Gatling Poc on Juice shop application
+Gatling Poc on Juice shop application.
+
